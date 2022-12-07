@@ -1,0 +1,14 @@
+name = "BuildCraft|Factory"
+filename = "buildcraft-factory-7.99.24.8.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "61d2691a379fbed934c4422a8e867630507f283d"
+
+[update]
+[update.curseforge]
+file-id = 3204467
+project-id = 231309

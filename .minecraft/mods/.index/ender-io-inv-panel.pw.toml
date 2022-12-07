@@ -1,0 +1,14 @@
+name = "Ender IO Inv Panel"
+filename = "EnderIO-invpanel-1.12.2-5.3.70.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "39abbbe1d43d6a1a56452a18d9762b239590dc9a"
+
+[update]
+[update.curseforge]
+file-id = 3328810
+project-id = 421604

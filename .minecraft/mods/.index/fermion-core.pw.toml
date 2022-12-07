@@ -1,0 +1,14 @@
+name = "Fermion Lib"
+filename = "Fermion-1.0.2+hotfix.testless.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "2c5f4d3cac5c22818a3a146d0b92fdb32e335d69"
+
+[update]
+[update.curseforge]
+file-id = 3250745
+project-id = 345538

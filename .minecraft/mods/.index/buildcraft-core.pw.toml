@@ -1,0 +1,14 @@
+name = "BuildCraft|Core"
+filename = "buildcraft-core-7.99.24.8.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "a1af189d976ca0c4198ad1414ad303902dd7cb18"
+
+[update]
+[update.curseforge]
+file-id = 3204464
+project-id = 231305

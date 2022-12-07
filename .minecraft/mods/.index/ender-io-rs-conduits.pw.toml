@@ -1,0 +1,14 @@
+name = "Ender IO RS Conduits"
+filename = "EnderIO-conduits-refinedstorage-1.12.2-5.3.70.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "0007e8bbdf7e2844cdc134fb043585f969814f0c"
+
+[update]
+[update.curseforge]
+file-id = 3328803
+project-id = 297201

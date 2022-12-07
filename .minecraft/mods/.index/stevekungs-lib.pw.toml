@@ -1,0 +1,14 @@
+name = "SteveKunG's Lib"
+filename = "SteveKunG's-Lib-1.12.2-1.2.0.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "c20cfaa084aa31ae44abff31b6748e86b0546420"
+
+[update]
+[update.curseforge]
+file-id = 3636234
+project-id = 296019

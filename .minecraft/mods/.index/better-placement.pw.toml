@@ -1,0 +1,14 @@
+name = "Better Placement"
+filename = "BetterPlacement-1.0.0-1.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "0204bf54baaa79c5ec5762b1d7f6adcadf2ccbab"
+
+[update]
+[update.curseforge]
+file-id = 2481852
+project-id = 278406

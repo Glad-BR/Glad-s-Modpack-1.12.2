@@ -1,0 +1,14 @@
+name = "Craftable Chainmail Armor [FORGE & FABRIC]"
+filename = "CraftableChainmail-1.12.2-1.1.5.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "1c131b66b48e5d790939cdf9d89cf810e82d58e5"
+
+[update]
+[update.curseforge]
+file-id = 3250111
+project-id = 452665

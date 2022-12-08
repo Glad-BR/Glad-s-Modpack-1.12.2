@@ -299,10 +299,7 @@ var itemArray as IItemStack[] = [
 <chisel:basalt2:6>,
 <chisel:basalt2:7>
 
-
-
 ];
-
 for item in itemArray {
 	recipes.remove(item);
 	furnace.remove(item);
@@ -310,19 +307,13 @@ for item in itemArray {
 }
 
 
-
 val itemCokeBlock = <thermalfoundation:storage_resource:1> as IItemStack;
-
 val oreCokeBlock1 = <ore:blockFuelCoke>;
 val oreCokeBlock2 = <ore:blockCoalCoke>;
 val oreCokeBlock3 = <ore:blockCoke>;
-
-
 oreCokeBlock1.add(itemCokeBlock);
 oreCokeBlock2.add(itemCokeBlock);
 oreCokeBlock3.add(itemCokeBlock);
-
-
 
 
 

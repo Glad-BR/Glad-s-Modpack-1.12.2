@@ -305,19 +305,3 @@ for item in itemArray {
 	furnace.remove(item);
 	JEI.removeAndHide(item);
 }
-
-
-val itemCokeBlock = <thermalfoundation:storage_resource:1> as IItemStack;
-val oreCokeBlock1 = <ore:blockFuelCoke>;
-val oreCokeBlock2 = <ore:blockCoalCoke>;
-val oreCokeBlock3 = <ore:blockCoke>;
-oreCokeBlock1.add(itemCokeBlock);
-oreCokeBlock2.add(itemCokeBlock);
-oreCokeBlock3.add(itemCokeBlock);
-
-
-
-recipes.remove(<mekanism:basicblock2:7> * 4);
-
-recipes.addShaped(<mekanism:basicblock2:7> * 4, [[<minecraft:iron_nugget>, <thermalfoundation:material:160>, <minecraft:iron_nugget>],[<thermalfoundation:material:160>, <minecraft:iron_nugget>, <thermalfoundation:material:160>], [<minecraft:iron_nugget>, <thermalfoundation:material:160>, <minecraft:iron_nugget>]]);
-

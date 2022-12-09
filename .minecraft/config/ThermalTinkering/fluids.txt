@@ -167,6 +167,9 @@ fire_water                                        (enderio:block_fluid_fire_wate
 liquid_sunshine                                   (enderio:block_fluid_liquid_sunshine)                                            = Liquid Sunshine
 cloud_seed                                        (enderio:block_fluid_cloud_seed)                                                 = Cloud Seed
 cloud_seed_concentrated                           (enderio:block_fluid_cloud_seed_concentrated)                                    = Concentrated Cloud Seed
+flux_goo                                          (thaumcraft:flux_goo)                                                            = Flux Goo
+liquid_death                                      (thaumcraft:liquid_death)                                                        = Liquid Death
+purifying_fluid                                   (thaumcraft:purifying_fluid)                                                     = Purifying Fluid
 stone                                             (tconstruct:molten_stone)                                                        = Seared Stone
 obsidian                                          (tconstruct:molten_obsidian)                                                     = Molten Obsidian
 clay                                              (tconstruct:molten_clay)                                                         = Molten Clay

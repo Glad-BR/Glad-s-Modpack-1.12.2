@@ -8,6 +8,10 @@ var itemArray as IItemStack[] = [
 
 <mekanism:otherdust:0>,
 <mekanism:basicblock:3>,
+<mekanism:controlcircuit>,
+<mekanism:controlcircuit:1>,
+<mekanism:controlcircuit:2>,
+
 
 <bigreactors:ingotsteel>,
 
@@ -29,12 +33,19 @@ var itemArray as IItemStack[] = [
 <energycontrol:item_component:0>,
 <energycontrol:item_component:1>,
 
+<industrialforegoing:plastic:0>,
+<industrialforegoing:tinydryrubber:0>,
+<industrialforegoing:dryrubber:0>,
+
 <forestry:gear_bronze>,
 <forestry:gear_copper>,
 <forestry:gear_tin>,
 <forestry:charcoal:0>,
 <forestry:candle:0>,
 <forestry:stump:0>,
+<forestry:refractory>,
+<forestry:capsule>,
+<forestry:can>,
 
 <harvestcraft:candledeco1>,
 <harvestcraft:candledeco2>,

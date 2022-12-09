@@ -13,11 +13,16 @@ oreCokeBlock2.add(itemCokeBlock);
 oreCokeBlock3.add(itemCokeBlock);
 
 
-
 recipes.remove(<mekanism:basicblock2:7> * 4);
+
 
 recipes.addShaped(<mekanism:basicblock2:7> * 4, [
     [<minecraft:iron_nugget>,           <thermalfoundation:material:160>,   <minecraft:iron_nugget>],
     [<thermalfoundation:material:160>,  <minecraft:iron_nugget>,            <thermalfoundation:material:160>], 
     [<minecraft:iron_nugget>,           <thermalfoundation:material:160>,   <minecraft:iron_nugget>]
 ]);
+
+recipes.addShaped(<mekanism:controlcircuit:2>, [
+    [<minecraft:redstone>,              <minecraft:redstone>,               <minecraft:redstone>],
+    [<mekanism:reinforcedalloy>,        <ic2:crafting:2>,                   <mekanism:reinforcedalloy>], 
+    [<minecraft:redstone>,              <minecraft:redstone>,               <minecraft:redstone>]]);

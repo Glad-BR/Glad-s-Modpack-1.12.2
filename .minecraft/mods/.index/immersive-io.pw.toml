@@ -1,0 +1,14 @@
+name = "Immersive IO"
+filename = "Immersive-IO-1.12.2-0.9.5.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "afc272cde7c8b14f4b3ee5cc2f806b43195ecc4a"
+
+[update]
+[update.curseforge]
+file-id = 2681483
+project-id = 293573

@@ -12,7 +12,6 @@ var itemArray as IItemStack[] = [
 <mekanism:controlcircuit:1>,
 <mekanism:controlcircuit:2>,
 
-
 <bigreactors:ingotsteel>,
 
 <railcraft:dust:6>,
@@ -65,7 +64,6 @@ var itemArray as IItemStack[] = [
 <harvestcraft:candledeco16>,
 
 <ic2:crafting:38>,
-<ic2:resource:10>,
 <ic2:crafting:19>,
 <ic2:bronze_sword>,
 <ic2:bronze_pickaxe>,

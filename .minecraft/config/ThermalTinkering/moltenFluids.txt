@@ -32,4 +32,5 @@ steel                                             (tconstruct:molten_steel)     
 xu_evil_metal                                     ([no block])                                                                     = Evil Infused Iron
 xu_enchanted_metal                                ([no block])                                                                     = Enchanted Metal
 xu_demonic_metal                                  ([no block])                                                                     = Molten Demon Metal
+constantan                                        (immersiveengineering:molten_constantan)                                         = Molten Constantan
 molten_reinforced_pink_slime                      ([no block])                                                                     = Molten Reinforced Pink Slime

@@ -126,7 +126,7 @@ mana                                              (thermalfoundation:fluid_mana)
 platinum                                          ([no block])                                                                     = Molten Platinum
 iridium                                           ([no block])                                                                     = Molten Iridium
 invar                                             ([no block])                                                                     = Molten Invar
-constantan                                        ([no block])                                                                     = Molten Constantan
+constantan                                        (immersiveengineering:molten_constantan)                                         = Molten Constantan
 signalum                                          ([no block])                                                                     = Molten Signalum
 lumium                                            ([no block])                                                                     = Molten Lumium
 enderium                                          ([no block])                                                                     = Molten Enderium
@@ -146,6 +146,15 @@ fiery_essence                                     (twilightforest:fiery_essence)
 xu_evil_metal                                     ([no block])                                                                     = Evil Infused Iron
 xu_enchanted_metal                                ([no block])                                                                     = Enchanted Metal
 xu_demonic_metal                                  ([no block])                                                                     = Molten Demon Metal
+plantoil                                          (immersiveengineering:fluidplantoil)                                             = Plant Oil
+ethanol                                           (immersiveengineering:fluidethanol)                                              = Ethanol
+biodiesel                                         (immersiveengineering:fluidbiodiesel)                                            = Biodiesel
+concrete                                          (immersiveengineering:fluidconcrete)                                             = Liquid Concrete
+uranium                                           (immersiveengineering:molten_uranium)                                            = Molten Uranium
+diesel                                            (immersivepetroleum:fluid_diesel)                                                = Diesel
+lubricant                                         (immersivepetroleum:fluid_lubricant)                                             = Lubricant
+gasoline                                          (immersivepetroleum:fluid_gasoline)                                              = Gasoline
+napalm                                            (immersivepetroleum:fluid_napalm)                                                = Napalm
 essence                                           (industrialforegoing:essence)                                                    = Essence
 meat                                              (industrialforegoing:meat)                                                       = Liquid Meat
 latex                                             (industrialforegoing:latex)                                                      = Latex
@@ -158,6 +167,11 @@ if.ore_fluid_raw                                  ([no block])                  
 if.ore_fluid_fermented                            ([no block])                                                                     = Fermented Ore Meat
 molten_reinforced_pink_slime                      ([no block])                                                                     = Molten Reinforced Pink Slime
 xpjuice                                           ([no block])                                                                     = Liquid XP
+etchacid                                          (pneumaticcraft:fluid.etchacid)                                                  = Etching Acid
+plastic                                           (pneumaticcraft:fluid.plastic)                                                   = Liquid Plastic
+lpg                                               (pneumaticcraft:fluid.lpg)                                                       = LPG
+fuel                                              (pneumaticcraft:fluid.fuel)                                                      = Gasoline
+kerosene                                          (pneumaticcraft:fluid.kerosene)                                                  = Kerosene
 nutrient_distillation                             (enderio:block_fluid_nutrient_distillation)                                      = Nutrient Distillation
 ender_distillation                                (enderio:block_fluid_ender_distillation)                                         = Dew of the Void
 vapor_of_levity                                   (enderio:block_fluid_vapor_of_levity)                                            = Vapor of Levity

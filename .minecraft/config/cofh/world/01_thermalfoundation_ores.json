@@ -152,7 +152,7 @@
 			}
 		},
 		"platinum": {
-			"enabled": "true",
+			"enabled": "false",
 			"distribution": "uniform",
 			"generator": {
 				"block": [
@@ -188,7 +188,7 @@
 			}
 		},
 		"aluminum": {
-			"enabled": "true",
+			"enabled": "false",
 			"distribution": "uniform",
 			"generator": {
 				"block": {
@@ -214,7 +214,7 @@
 			}
 		},
 		"iridium": {
-			"enabled": "true",
+			"enabled": "false",
 			"distribution": "uniform",
 			"generator": {
 				"block": [
@@ -250,7 +250,7 @@
 			}
 		},
 		"copper_ocean": {
-			"enabled": "false",
+			"enabled": "true",
 			"distribution": "uniform",
 			"generator": {
 				"block": {
@@ -284,7 +284,7 @@
 			}
 		},
 		"copper_high": {
-			"enabled": "false",
+			"enabled": "true",
 			"distribution": "uniform",
 			"generator": {
 				"block": {

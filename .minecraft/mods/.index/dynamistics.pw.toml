@@ -1,0 +1,14 @@
+name = "Dynamistics"
+filename = "dynamistics-1.0.2.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "f956193b77dc770ea30e3de33e7c9706e75e762e"
+
+[update]
+[update.curseforge]
+file-id = 3056455
+project-id = 383632

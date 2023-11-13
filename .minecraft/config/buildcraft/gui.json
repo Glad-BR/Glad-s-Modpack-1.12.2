@@ -10,12 +10,12 @@
       "boolean": false
     },
     "ledger.owner.is_open": {
-      "boolean": false
+      "boolean": true
     }
   },
   "buildcraftlib:engine": {
     "ledger.power.is_open": {
-      "boolean": false
+      "boolean": true
     }
   }
 }

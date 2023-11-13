@@ -1,4 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <enderio:recipes xmlns:enderio="http://enderio.com/recipes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://enderio.com/recipes recipes.xsd ">
 
+    <recipe name="Tweak: Wood Hopper" required="false" disabled="true">
+    </recipe>
+
+    <recipe name="Tweak: Stick from Wood" required="false" disabled="true">
+    </recipe>
+
+    <recipe name="Tweak: Chest from Wood" required="false" disabled="true">
+    </recipe>
+
+    <recipe name="Compatibility: Glass 2 Glass" required="false" disabled="true">
+    </recipe>
+
+    <recipe name="Compatibility: Glass Pane" required="false" disabled="true">
+    </recipe>
+
+    <recipe name="Compatibility: Daylight Sensor" required="false" disabled="true">
+    </recipe>
+
+
+    <recipe name="Gear, Wood" required="false" disabled="true">
+    </recipe>
+
+    <recipe name="Gear, ae2 messes things up" required="false" disabled="true">
+    </recipe>
+
+    <recipe name="Gear, just to be sure" required="false" disabled="true">
+    </recipe>
+
+    <recipe name="Gear, better save than sorry" required="false" disabled="true">
+    </recipe>
+
+    <recipe name="Gear, Stone" required="false" disabled="true">
+    </recipe>
+
+    <recipe name="Gear, Stone, Upgrade" required="false" disabled="true">
+    </recipe>
+
+    <recipe name="Gear, Stone, Casting" required="false" disabled="true">
+    </recipe>
+
 </enderio:recipes>
